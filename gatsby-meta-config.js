@@ -1,7 +1,7 @@
 module.exports = {
   title: `Nico Vignola`,
   presentationTitle: `Hey, I'm Nico Vignola`,
-  description: `Blog posted about ...`,
+  description: `Nico Vignola. Web engineer that writes about tech and other stuff.`,
   author: `Nico Vignola`,
   introduction: ``,
   siteUrl: `https://nicovignola.com`, // Your blog site url
