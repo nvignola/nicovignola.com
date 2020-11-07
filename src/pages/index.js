@@ -3,7 +3,6 @@ import { graphql } from 'gatsby'
 import _ from 'lodash'
 
 import { Layout } from '../layout'
-import { Bio } from '../components/bio'
 import { Head } from '../components/head'
 import { Category } from '../components/category'
 import { Contents } from '../components/contents'
@@ -74,7 +73,6 @@ export default ({ data, location }) => {
   return (
     <Layout location={location} title={siteMetadata.title}>
       <Head title={HOME_TITLE} keywords={siteMetadata.keywords} />
-      <Bio />
       <Category
         categories={categories}
         category={category}

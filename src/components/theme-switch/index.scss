@@ -2,9 +2,12 @@
   text-align: right;
 
   .icon {
-    text-align: center;
-    color: #222;
-    font-size: 14px;
-    font-weight: 900;
+    img {
+      width: 20px;
+      vertical-align: sub;
+      display: inline-block;
+      margin-bottom: 0;
+      margin-left: 2px;
+    }
   }
 }
