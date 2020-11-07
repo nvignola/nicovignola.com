@@ -1,5 +1,5 @@
 ---
-title: '200. Ok. It's born.'
+title: '200. Ok. It is born.'
 date: 2020-11-6 18:17:00
 category: 'all'
 draft: false
